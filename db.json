@@ -1,0 +1,38 @@
+{
+  "goals": [
+    {
+      "id": 1,
+      "name": "Do 10 press ups"
+    },
+    {
+      "id": 2,
+      "name": "Spend 2 hours with family"
+    },
+    {
+      "name": "Run 10 miles",
+      "id": 3
+    },
+    {
+      "name": "Sleep for 8 hours",
+      "id": 4
+    },
+    {
+      "name": "Donate £5 to charity",
+      "id": 5
+    }
+  ],
+  "vision": [
+    {
+      "name": "Be healthy",
+      "id": 1
+    },
+    {
+      "name": "Be a nice person",
+      "id": 2
+    },
+    {
+      "name": "Take care of family",
+      "id": 3
+    }
+  ]
+}
